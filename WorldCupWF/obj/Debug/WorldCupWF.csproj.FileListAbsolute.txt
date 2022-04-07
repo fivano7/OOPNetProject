@@ -1,0 +1,68 @@
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWF\bin\Debug\WorldCupWF.exe.config
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWF\bin\Debug\WorldCupWF.exe
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWF\bin\Debug\WorldCupWF.pdb
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWF\bin\Debug\en\WorldCupWF.resources.dll
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWF\bin\Debug\PodatkovniSloj.dll
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWF\bin\Debug\RestSharp.dll
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWF\bin\Debug\VisioForge.Controls.dll
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWF\bin\Debug\VisioForge.Controls.UI.Dialogs.dll
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWF\bin\Debug\VisioForge.Controls.UI.dll
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWF\bin\Debug\VisioForge.MediaFramework.dll
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWF\bin\Debug\VisioForge.Shared.dll
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWF\bin\Debug\VisioForge.Tools.dll
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWF\bin\Debug\VisioForge.Types.dll
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWF\bin\Debug\PodatkovniSloj.pdb
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWF\bin\Debug\RestSharp.xml
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWF\obj\Debug\WorldCupWF.csproj.AssemblyReference.cache
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWF\obj\Debug\WorldCupWF.ConfirmDialog.resources
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWF\obj\Debug\WorldCupWF.IgracKontrola.resources
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWF\obj\Debug\WorldCupWF.OdabirOmiljenihIgraca.resources
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWF\obj\Debug\WorldCupWF.OdabirReprezentacije.resources
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWF\obj\Debug\WorldCupWF.PocetnePostavke.resources
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWF\obj\Debug\WorldCupWF.Postavke.resources
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWF\obj\Debug\WorldCupWF.Properties.Resources.resources
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWF\obj\Debug\WorldCupWF.StatistikaGledateljaReprezentacije.resources
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWF\obj\Debug\WorldCupWF.StatistikaIgraca.resources
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWF\obj\Debug\WorldCupWF.Properties.Resources.en.resources
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWF\obj\Debug\WorldCupWF.csproj.GenerateResource.cache
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWF\obj\Debug\WorldCupWF.csproj.CoreCompileInputs.cache
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWF\obj\Debug\en\WorldCupWF.resources.dll
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWF\obj\Debug\WorldCupWF.csproj.CopyComplete
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWF\obj\Debug\WorldCupWF.exe
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWF\obj\Debug\WorldCupWF.pdb
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWF\bin\Debug\WorldCupWF.exe.config
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWF\bin\Debug\WorldCupWF.exe
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWF\bin\Debug\WorldCupWF.pdb
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWF\bin\Debug\en\WorldCupWF.resources.dll
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWF\bin\Debug\PodatkovniSloj.dll
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWF\bin\Debug\RestSharp.dll
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWF\bin\Debug\VisioForge.Controls.dll
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWF\bin\Debug\VisioForge.Controls.UI.Dialogs.dll
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWF\bin\Debug\VisioForge.Controls.UI.dll
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWF\bin\Debug\VisioForge.MediaFramework.dll
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWF\bin\Debug\VisioForge.Shared.dll
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWF\bin\Debug\VisioForge.Tools.dll
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWF\bin\Debug\VisioForge.Types.dll
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWF\bin\Debug\PodatkovniSloj.pdb
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWF\bin\Debug\RestSharp.xml
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWF\obj\Debug\WorldCupWF.csproj.AssemblyReference.cache
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWF\obj\Debug\WorldCupWF.ConfirmDialog.resources
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWF\obj\Debug\WorldCupWF.IgracKontrola.resources
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWF\obj\Debug\WorldCupWF.OdabirOmiljenihIgraca.resources
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWF\obj\Debug\WorldCupWF.OdabirReprezentacije.resources
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWF\obj\Debug\WorldCupWF.PocetnePostavke.resources
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWF\obj\Debug\WorldCupWF.Postavke.resources
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWF\obj\Debug\WorldCupWF.Properties.Resources.resources
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWF\obj\Debug\WorldCupWF.StatistikaGledateljaReprezentacije.resources
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWF\obj\Debug\WorldCupWF.StatistikaIgraca.resources
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWF\obj\Debug\WorldCupWF.Properties.Resources.en.resources
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWF\obj\Debug\WorldCupWF.csproj.GenerateResource.cache
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWF\obj\Debug\WorldCupWF.csproj.CoreCompileInputs.cache
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWF\obj\Debug\en\WorldCupWF.resources.dll
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWF\obj\Debug\WorldCupWF.csproj.CopyComplete
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWF\obj\Debug\WorldCupWF.exe
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWF\obj\Debug\WorldCupWF.pdb

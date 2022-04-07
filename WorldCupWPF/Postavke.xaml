@@ -1,0 +1,90 @@
+﻿<Window x:Class="WorldCupWPF.Postavke"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WorldCupWPF"
+        mc:Ignorable="d"
+        xmlns:lang="clr-namespace:WorldCupWPF.Properties"
+        Title="{x:Static lang:Resources.postavkeNaslov}" Height="250" Width="300" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen" Icon="/Images/ball.ico">
+
+    <Window.Resources>
+        <Style TargetType="{x:Type Label}">
+
+            <Style.Setters>
+                <Setter Property="FontSize" Value="10"/>
+            </Style.Setters>
+
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25"/>
+            <RowDefinition Height="22" />
+            <RowDefinition Height="25"/>
+            <RowDefinition Height="22" />
+            <RowDefinition Height="25"/>
+            <RowDefinition Height="22" />
+            <RowDefinition />
+
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="7*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+
+        <!--Odabir prvenstva-->
+        <Label 
+            Content="{x:Static lang:Resources.pocPostavkeOdabirPrvenstva}"
+            Grid.Column="1"
+            Grid.Row="0"
+            />
+        <ComboBox 
+            x:Name="ddlPrvenstvo"
+            Grid.Column="1"
+            Grid.Row="1"/>
+
+        <!--Jezik aplikacije-->
+        <Label 
+            Content="{x:Static lang:Resources.pocPostavkeJezikAplikacije}"
+            Grid.Column="1"
+            Grid.Row="2"
+            />
+        <ComboBox 
+            x:Name="ddlJezik"
+            Grid.Column="1"
+            Grid.Row="3"/>
+
+        <!--Odabir prikaza-->
+        <Label 
+            Content="{x:Static lang:Resources.pocPostavkePrikazGlavnogProzora}"
+            Grid.Column="1"
+            Grid.Row="4"
+            />
+        <ComboBox 
+            x:Name="ddlRezolucija"
+            Grid.Column="1"
+            Grid.Row="5"/>
+
+        <!--Button-->
+        <Button 
+            Content="{x:Static lang:Resources.postavkeSpremiPostavke}"
+            Click="btnOtvori_Click"
+            Grid.Column="1"
+            Grid.Row="6"
+            Height="35"
+            Margin="0 10"
+            VerticalAlignment="Top"/>
+
+
+
+
+
+
+
+    </Grid>
+</Window>

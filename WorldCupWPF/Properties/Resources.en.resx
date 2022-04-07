@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Ball" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ball.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jezikEngleski" xml:space="preserve">
+    <value>English</value>
+  </data>
+  <data name="jezikHrvatski" xml:space="preserve">
+    <value>Croatian</value>
+  </data>
+  <data name="kapetanDa" xml:space="preserve">
+    <value>Yes</value>
+  </data>
+  <data name="kapetanNe" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="pocPostavkeJezikAplikacije" xml:space="preserve">
+    <value>Choose language</value>
+  </data>
+  <data name="pocPostavkeNaslov" xml:space="preserve">
+    <value>Initial settings</value>
+  </data>
+  <data name="pocPostavkeOdabirPrvenstva" xml:space="preserve">
+    <value>Choose tournament</value>
+  </data>
+  <data name="pocPostavkeOtvoriAplikacijuButton" xml:space="preserve">
+    <value>Open the application</value>
+  </data>
+  <data name="pocPostavkePrikazGlavnogProzora" xml:space="preserve">
+    <value>Show main window</value>
+  </data>
+  <data name="postavkeNaslov" xml:space="preserve">
+    <value>Settings</value>
+  </data>
+  <data name="postavkeSpremiPostavke" xml:space="preserve">
+    <value>Save settings</value>
+  </data>
+  <data name="pozicijaGolman" xml:space="preserve">
+    <value>Goalie</value>
+  </data>
+  <data name="pozicijaNapadac" xml:space="preserve">
+    <value>Forward</value>
+  </data>
+  <data name="pozicijaObrambeni" xml:space="preserve">
+    <value>Defender</value>
+  </data>
+  <data name="pozicijaVezni" xml:space="preserve">
+    <value>Midfield</value>
+  </data>
+  <data name="PregledReprezentacijeGreska" xml:space="preserve">
+    <value>Error while fetching data</value>
+  </data>
+  <data name="PregledReprezentacijeInfoUcitavam" xml:space="preserve">
+    <value>Loading data...</value>
+  </data>
+  <data name="PregledReprezentacijeNaslov" xml:space="preserve">
+    <value>Team display</value>
+  </data>
+  <data name="PregledReprezentacijeOmiljenaReprezentacija" xml:space="preserve">
+    <value>Favourite team:</value>
+  </data>
+  <data name="PregledReprezentacijePostavke" xml:space="preserve">
+    <value>Settings</value>
+  </data>
+  <data name="PregledReprezentacijeProtivnik" xml:space="preserve">
+    <value>Opponent</value>
+  </data>
+  <data name="PregledReprezentacijeZatvaranjeAplikacije" xml:space="preserve">
+    <value>Closing the app</value>
+  </data>
+  <data name="RandomIgrac" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\randomigrac.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rezolucijaFullscreen" xml:space="preserve">
+    <value>Fullscreen</value>
+  </data>
+  <data name="rezolucijaMala" xml:space="preserve">
+    <value>Small</value>
+  </data>
+  <data name="rezolucijaSrednja" xml:space="preserve">
+    <value>Medium</value>
+  </data>
+  <data name="rezolucijaVelika" xml:space="preserve">
+    <value>Large</value>
+  </data>
+  <data name="spolMuski" xml:space="preserve">
+    <value>Male</value>
+  </data>
+  <data name="spolZenski" xml:space="preserve">
+    <value>Female</value>
+  </data>
+  <data name="StatIgracaBroj" xml:space="preserve">
+    <value>SHIRT NUMBER:</value>
+  </data>
+  <data name="StatIgracaGolovi" xml:space="preserve">
+    <value>GOALS:</value>
+  </data>
+  <data name="StatIgracaKapetan" xml:space="preserve">
+    <value>CAPTAIN:</value>
+  </data>
+  <data name="StatIgracaNaslov" xml:space="preserve">
+    <value>Player statistics</value>
+  </data>
+  <data name="StatIgracaPozicija" xml:space="preserve">
+    <value>POSITION:</value>
+  </data>
+  <data name="StatIgracaZutiKartoni" xml:space="preserve">
+    <value>YELLOW CARDS:</value>
+  </data>
+  <data name="StatistikaReprezentacijeFifaKod" xml:space="preserve">
+    <value>FIFA CODE:</value>
+  </data>
+  <data name="StatistikaReprezentacijeGolRazlika" xml:space="preserve">
+    <value>GOAL DIFFERENCE:</value>
+  </data>
+  <data name="StatistikaReprezentacijeNaslov" xml:space="preserve">
+    <value>Country statistics</value>
+  </data>
+  <data name="StatistikaReprezentacijeNaziv" xml:space="preserve">
+    <value>NAME:</value>
+  </data>
+  <data name="StatistikaReprezentacijeNeodluceno" xml:space="preserve">
+    <value>DRAWS:</value>
+  </data>
+  <data name="StatistikaReprezentacijePobjede" xml:space="preserve">
+    <value>WINS:</value>
+  </data>
+  <data name="StatistikaReprezentacijePorazi" xml:space="preserve">
+    <value>DEFEATS:</value>
+  </data>
+  <data name="StatistikaReprezentacijePrimljeniGolovi" xml:space="preserve">
+    <value>GOALS AGAINST:</value>
+  </data>
+  <data name="StatistikaReprezentacijeUtakmice" xml:space="preserve">
+    <value>GAMES PLAYED:</value>
+  </data>
+  <data name="StatistikaReprezentacijeZabijeniGolovi" xml:space="preserve">
+    <value>GOALS FOR:</value>
+  </data>
+  <data name="teren" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\teren.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ZatvaranjeAplikacijeOdustani" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="ZatvaranjeAplikacijePotvrdi" xml:space="preserve">
+    <value>Confirm</value>
+  </data>
+  <data name="ZatvaranjeAplikacijeTekst" xml:space="preserve">
+    <value>Are you sure?</value>
+  </data>
+</root>

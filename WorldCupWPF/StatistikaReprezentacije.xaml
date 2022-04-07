@@ -1,0 +1,284 @@
+﻿<Window x:Class="WorldCupWPF.StatistikaReprezentacije"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WorldCupWPF"
+        mc:Ignorable="d"
+         xmlns:lang="clr-namespace:WorldCupWPF.Properties"
+        Title="{x:Static lang:Resources.StatistikaReprezentacijeNaslov}" Height="500" Width="500" WindowStartupLocation="CenterScreen" Icon="/Images/ball.ico">
+
+    <Window.Triggers>
+        <EventTrigger RoutedEvent="Window.Loaded">
+            <BeginStoryboard>
+                <Storyboard>
+                    <DoubleAnimation Storyboard.TargetProperty="Height" 
+                                     From="200"
+                                     To="500"
+                                     Duration="0:0:0.5"
+                                     AutoReverse="False" />
+                </Storyboard>
+            </BeginStoryboard>
+        </EventTrigger>
+    </Window.Triggers>
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0" Background="LightGray">
+            <Label 
+            x:Name="lblReprezentacija"
+            Grid.Row="0"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+            FontSize="20"
+            FontWeight="Bold"
+            Content="ImeReprezentacije"
+            />
+        </Grid>
+  
+
+        <Grid Grid.Row="1" Background="white">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Label Grid.Column="0"
+                   x:Name="lblNaziv"
+                   Content="{x:Static lang:Resources.StatistikaReprezentacijeNaziv}"
+                   FontWeight="Bold"
+                   FontSize="15"
+                   Margin="10 0 0 0"
+                   VerticalAlignment="Center"
+                   HorizontalAlignment="Left"/>
+
+            <Label Grid.Column="1"
+                   x:Name="lblNazivPodatak"
+                   Content="REPREZENTACIJA"
+                   FontWeight="Bold"
+                   FontSize="15"
+                   Margin="50 0 0 0"
+                   VerticalAlignment="Center"
+                   HorizontalAlignment="Left"/>
+        </Grid>
+        
+        <Grid Grid.Row="2" Background="LightGray">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Label Grid.Column="0"
+                   x:Name="lblFifaKod"
+                   Content="{x:Static lang:Resources.StatistikaReprezentacijeFifaKod}"
+                   FontWeight="Bold"
+                   FontSize="15"
+                   Margin="10 0 0 0"
+                   VerticalAlignment="Center"
+                   HorizontalAlignment="Left"/>
+
+            <Label Grid.Column="1"
+                   x:Name="lblFifaKodPodatak"
+                   Content="KOD"
+                   FontWeight="Bold"
+                   FontSize="15"
+                   Margin="50 0 0 0"
+                   VerticalAlignment="Center"
+                   HorizontalAlignment="Left"/>
+        </Grid>
+        
+        
+
+        <Grid Grid.Row="3" Background="white">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Label Grid.Column="0"
+                   x:Name="lblOdigraneUtakmice"
+                   Content="{x:Static lang:Resources.StatistikaReprezentacijeUtakmice}"
+                   FontWeight="Bold"
+                   FontSize="15"
+                   Margin="10 0 0 0"
+                   VerticalAlignment="Center"
+                   HorizontalAlignment="Left"/>
+
+            <Label Grid.Column="1"
+                   x:Name="lblOdigraneUtakmicePodatak"
+                   Content="7"
+                   FontWeight="Bold"
+                   FontSize="15"
+                   Margin="50 0 0 0"
+                   VerticalAlignment="Center"
+                   HorizontalAlignment="Left"/>
+        </Grid>
+
+        <Grid Grid.Row="4" Background="LightGray">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Label Grid.Column="0"
+                   x:Name="lblPobjede"
+                   Content="{x:Static lang:Resources.StatistikaReprezentacijePobjede}"
+                   FontWeight="Bold"
+                   FontSize="15"
+                   Margin="10 0 0 0"
+                   VerticalAlignment="Center"
+                   HorizontalAlignment="Left"/>
+
+            <Label Grid.Column="1"
+                   x:Name="lblPobjedePodatak"
+                   Content="2"
+                   FontWeight="Bold"
+                   FontSize="15"
+                   Margin="50 0 0 0"
+                   VerticalAlignment="Center"
+                   HorizontalAlignment="Left"/>
+        </Grid>
+        
+       
+        <Grid Grid.Row="5" Background="white">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Label Grid.Column="0"
+                   x:Name="lblPorazi"
+                   Content="{x:Static lang:Resources.StatistikaReprezentacijePorazi}"
+                   FontWeight="Bold"
+                   FontSize="15"
+                   Margin="10 0 0 0"
+                   VerticalAlignment="Center"
+                   HorizontalAlignment="Left"/>
+
+            <Label Grid.Column="1"
+                   x:Name="lblPoraziPodatak"
+                   Content="7"
+                   FontWeight="Bold"
+                   FontSize="15"
+                   Margin="50 0 0 0"
+                   VerticalAlignment="Center"
+                   HorizontalAlignment="Left"/>
+        </Grid>
+
+        <Grid Grid.Row="6" Background="LightGray">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Label Grid.Column="0"
+                   x:Name="lblNeodluceno"
+                   Content="{x:Static lang:Resources.StatistikaReprezentacijeNeodluceno}"
+                   FontWeight="Bold"
+                   FontSize="15"
+                   Margin="10 0 0 0"
+                   VerticalAlignment="Center"
+                   HorizontalAlignment="Left"/>
+
+            <Label Grid.Column="1"
+                   x:Name="lblNeodlucenoPodatak"
+                   Content="2"
+                   FontWeight="Bold"
+                   FontSize="15"
+                   Margin="50 0 0 0"
+                   VerticalAlignment="Center"
+                   HorizontalAlignment="Left"/>
+        </Grid>
+       
+
+
+        <Grid Grid.Row="7" Background="white">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Label Grid.Column="0"
+                   x:Name="lblZabijeniGolovi"
+                   Content="{x:Static lang:Resources.StatistikaReprezentacijeZabijeniGolovi}"
+                   FontWeight="Bold"
+                   FontSize="15"
+                   Margin="10 0 0 0"
+                   VerticalAlignment="Center"
+                   HorizontalAlignment="Left"/>
+
+            <Label Grid.Column="1"
+                   x:Name="lblZabijeniGoloviPodatak"
+                   Content="7"
+                   FontWeight="Bold"
+                   FontSize="15"
+                   Margin="50 0 0 0"
+                   VerticalAlignment="Center"
+                   HorizontalAlignment="Left"/>
+        </Grid>
+
+        <Grid Grid.Row="8" Background="LightGray">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Label Grid.Column="0"
+                   x:Name="lblPrimljeniGolovi"
+                   Content="{x:Static lang:Resources.StatistikaReprezentacijePrimljeniGolovi}"
+                   FontWeight="Bold"
+                   FontSize="15"
+                   Margin="10 0 0 0"
+                   VerticalAlignment="Center"
+                   HorizontalAlignment="Left"/>
+
+            <Label Grid.Column="1"
+                   x:Name="lblPrimljeniGoloviPodatak"
+                   Content="2"
+                   FontWeight="Bold"
+                   FontSize="15"
+                   Margin="50 0 0 0"
+                   VerticalAlignment="Center"
+                   HorizontalAlignment="Left"/>
+        </Grid>
+
+        <Grid Grid.Row="9" Background="white">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Label Grid.Column="0"
+                   x:Name="lblGolRazlika"
+                   Content="{x:Static lang:Resources.StatistikaReprezentacijeGolRazlika}"
+                   FontWeight="Bold"
+                   FontSize="15"
+                   Margin="10 0 0 0"
+                   VerticalAlignment="Center"
+                   HorizontalAlignment="Left"/>
+
+            <Label Grid.Column="1"
+                   x:Name="lblGolRazlikaPodatak"
+                   Content="-2"
+                   FontWeight="Bold"
+                   FontSize="15"
+                   Margin="50 0 0 0"
+                   VerticalAlignment="Center"
+                   HorizontalAlignment="Left"/>
+        </Grid>
+
+
+    </Grid>
+</Window>

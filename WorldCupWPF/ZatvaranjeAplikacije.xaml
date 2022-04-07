@@ -1,0 +1,46 @@
+﻿<Window x:Class="WorldCupWPF.ZatvaranjeAplikacije"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WorldCupWPF"
+        mc:Ignorable="d"
+        x:Name="formaPotvrde"
+        xmlns:lang="clr-namespace:WorldCupWPF.Properties"
+        Title="Zatvaranje Aplikacije" Height="150" Width="250" KeyDown="Window_KeyDown" WindowStartupLocation="CenterScreen" Icon="/Images/ball.ico">
+    <Grid>
+ 
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+
+            <Button Grid.Column="0"
+                Margin="15"
+                x:Name="btnOk"
+                Content="{x:Static lang:Resources.ZatvaranjeAplikacijePotvrdi}"
+                Click="Potvrda_Click"/>
+
+            <Button Grid.Column="1"
+                x:Name="btnCancel"
+                Margin="15"
+                Content="{x:Static lang:Resources.ZatvaranjeAplikacijeOdustani}"
+                Click="Odustajanje_Click"/>
+
+        </Grid>
+
+        <Label Grid.Row="0"
+               x:Name="lblText"
+               Content="{x:Static lang:Resources.ZatvaranjeAplikacijeTekst}"
+               FontSize="20"
+               VerticalAlignment="Center"
+               HorizontalAlignment="Center"/>
+
+    </Grid>
+</Window>

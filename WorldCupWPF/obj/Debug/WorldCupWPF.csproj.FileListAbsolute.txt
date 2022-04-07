@@ -1,0 +1,82 @@
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWPF\bin\Debug\WorldCupWPF.exe.config
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWPF\bin\Debug\WorldCupWPF.exe
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWPF\bin\Debug\WorldCupWPF.pdb
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWPF\bin\Debug\en\WorldCupWPF.resources.dll
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWPF\bin\Debug\PodatkovniSloj.dll
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWPF\bin\Debug\WorldCupWF.exe
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWPF\bin\Debug\RestSharp.dll
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWPF\bin\Debug\PodatkovniSloj.pdb
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWPF\bin\Debug\WorldCupWF.pdb
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWPF\bin\Debug\WorldCupWF.exe.config
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWPF\bin\Debug\RestSharp.xml
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWPF\bin\Debug\en\WorldCupWF.resources.dll
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWPF\obj\Debug\WorldCupWPF.csproj.AssemblyReference.cache
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWPF\obj\Debug\IgracKontrola.g.cs
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWPF\obj\Debug\PocPostavke.g.cs
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWPF\obj\Debug\Postavke.g.cs
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWPF\obj\Debug\PregledReprezentacije.g.cs
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWPF\obj\Debug\StatIgraca.g.cs
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWPF\obj\Debug\StatistikaReprezentacije.g.cs
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWPF\obj\Debug\ZatvaranjeAplikacije.g.cs
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWPF\obj\Debug\App.g.cs
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWPF\obj\Debug\WorldCupWPF_MarkupCompile.cache
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWPF\obj\Debug\WorldCupWPF_MarkupCompile.lref
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWPF\obj\Debug\IgracKontrola.baml
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWPF\obj\Debug\PocPostavke.baml
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWPF\obj\Debug\Postavke.baml
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWPF\obj\Debug\PregledReprezentacije.baml
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWPF\obj\Debug\StatIgraca.baml
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWPF\obj\Debug\StatistikaReprezentacije.baml
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWPF\obj\Debug\ZatvaranjeAplikacije.baml
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWPF\obj\Debug\WorldCupWPF.g.resources
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWPF\obj\Debug\WorldCupWPF.Properties.Resources.resources
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWPF\obj\Debug\WorldCupWPF.Properties.Resources.en.resources
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWPF\obj\Debug\WorldCupWPF.csproj.GenerateResource.cache
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWPF\obj\Debug\WorldCupWPF.csproj.CoreCompileInputs.cache
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWPF\obj\Debug\en\WorldCupWPF.resources.dll
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWPF\obj\Debug\WorldCupWPF.csproj.CopyComplete
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWPF\obj\Debug\WorldCupWPF.exe
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\WorldCupWPF\obj\Debug\WorldCupWPF.pdb
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWPF\bin\Debug\WorldCupWPF.exe.config
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWPF\bin\Debug\WorldCupWPF.exe
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWPF\bin\Debug\WorldCupWPF.pdb
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWPF\bin\Debug\en\WorldCupWPF.resources.dll
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWPF\bin\Debug\PodatkovniSloj.dll
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWPF\bin\Debug\WorldCupWF.exe
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWPF\bin\Debug\RestSharp.dll
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWPF\bin\Debug\PodatkovniSloj.pdb
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWPF\bin\Debug\WorldCupWF.pdb
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWPF\bin\Debug\WorldCupWF.exe.config
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWPF\bin\Debug\RestSharp.xml
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWPF\bin\Debug\en\WorldCupWF.resources.dll
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWPF\obj\Debug\WorldCupWPF.csproj.AssemblyReference.cache
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWPF\obj\Debug\IgracKontrola.g.cs
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWPF\obj\Debug\PocPostavke.g.cs
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWPF\obj\Debug\Postavke.g.cs
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWPF\obj\Debug\PregledReprezentacije.g.cs
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWPF\obj\Debug\StatIgraca.g.cs
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWPF\obj\Debug\StatistikaReprezentacije.g.cs
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWPF\obj\Debug\ZatvaranjeAplikacije.g.cs
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWPF\obj\Debug\App.g.cs
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWPF\obj\Debug\WorldCupWPF_MarkupCompile.cache
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWPF\obj\Debug\WorldCupWPF_MarkupCompile.lref
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWPF\obj\Debug\IgracKontrola.baml
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWPF\obj\Debug\PocPostavke.baml
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWPF\obj\Debug\Postavke.baml
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWPF\obj\Debug\PregledReprezentacije.baml
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWPF\obj\Debug\StatIgraca.baml
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWPF\obj\Debug\StatistikaReprezentacije.baml
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWPF\obj\Debug\ZatvaranjeAplikacije.baml
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWPF\obj\Debug\WorldCupWPF.g.resources
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWPF\obj\Debug\WorldCupWPF.Properties.Resources.resources
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWPF\obj\Debug\WorldCupWPF.Properties.Resources.en.resources
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWPF\obj\Debug\WorldCupWPF.csproj.GenerateResource.cache
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWPF\obj\Debug\WorldCupWPF.csproj.CoreCompileInputs.cache
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWPF\obj\Debug\en\WorldCupWPF.resources.dll
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWPF\obj\Debug\WorldCupWPF.csproj.CopyComplete
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWPF\obj\Debug\WorldCupWPF.exe
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\WorldCupWPF\obj\Debug\WorldCupWPF.pdb

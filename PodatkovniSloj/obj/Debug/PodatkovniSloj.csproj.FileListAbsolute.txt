@@ -1,0 +1,22 @@
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\PodatkovniSloj\bin\Debug\PodatkovniSloj.dll
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\PodatkovniSloj\bin\Debug\PodatkovniSloj.pdb
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\PodatkovniSloj\bin\Debug\Newtonsoft.Json.dll
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\PodatkovniSloj\bin\Debug\RestSharp.dll
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\PodatkovniSloj\bin\Debug\Newtonsoft.Json.xml
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\PodatkovniSloj\bin\Debug\RestSharp.xml
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\PodatkovniSloj\obj\Debug\PodatkovniSloj.csproj.AssemblyReference.cache
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\PodatkovniSloj\obj\Debug\PodatkovniSloj.csproj.CoreCompileInputs.cache
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\PodatkovniSloj\obj\Debug\PodatkovniSloj.csproj.CopyComplete
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\PodatkovniSloj\obj\Debug\PodatkovniSloj.dll
+C:\Users\filip_7ouqmgn\Desktop\Projekt OOP.net\Projekt OOP.net work in progress\WindowsForms\PodatkovniSloj\obj\Debug\PodatkovniSloj.pdb
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\PodatkovniSloj\bin\Debug\PodatkovniSloj.dll
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\PodatkovniSloj\bin\Debug\PodatkovniSloj.pdb
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\PodatkovniSloj\bin\Debug\Newtonsoft.Json.dll
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\PodatkovniSloj\bin\Debug\RestSharp.dll
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\PodatkovniSloj\bin\Debug\Newtonsoft.Json.xml
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\PodatkovniSloj\bin\Debug\RestSharp.xml
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\PodatkovniSloj\obj\Debug\PodatkovniSloj.csproj.AssemblyReference.cache
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\PodatkovniSloj\obj\Debug\PodatkovniSloj.csproj.CoreCompileInputs.cache
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\PodatkovniSloj\obj\Debug\PodatkovniSloj.csproj.CopyComplete
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\PodatkovniSloj\obj\Debug\PodatkovniSloj.dll
+C:\Users\filip_7ouqmgn\Desktop\WindowsForms\PodatkovniSloj\obj\Debug\PodatkovniSloj.pdb
